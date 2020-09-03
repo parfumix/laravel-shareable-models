@@ -1,6 +1,6 @@
 <?php
 
-namespace Sassnowski\LaravelShareableModel;
+namespace Parfumix\LaravelShareableModel;
 
 use Illuminate\Database\QueryException;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
