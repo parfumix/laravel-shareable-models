@@ -1,5 +1,5 @@
 {
-    "name": "sassnowski/laravel-shareable-models",
+    "name": "parfumix/laravel-shareable-models",
     "description": "Create shareable links from your eloquent models.",
     "type": "library",
     "require": {
@@ -24,12 +24,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Sassnowski\\LaravelShareableModel\\": "src/"
+            "Parfumix\\LaravelShareableModel\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Sassnowski\\LaravelShareableModel\\Tests\\": "tests/"
+            "Parfumix\\LaravelShareableModel\\Tests\\": "tests/"
         }
     },
     "extra": {
